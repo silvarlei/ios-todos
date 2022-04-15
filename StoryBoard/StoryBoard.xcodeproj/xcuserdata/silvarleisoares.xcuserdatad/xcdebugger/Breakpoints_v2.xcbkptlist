@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "22EB0769-A900-45B7-99FB-54735601D0A2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AC20703A-F968-4A7D-B7B0-319525B8DB97"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StoryBoard/DetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "DetailViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "AC20703A-F968-4A7D-B7B0-319525B8DB97 - 186eea28cdb8da35"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StoryBoard.DetailViewController.cards.getter : Swift.Array&lt;StoryBoard.Card&gt;"
+                  moduleName = "StoryBoard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/silvarleisoares/Desktop/Developer/StoryBoard/StoryBoard/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "AC20703A-F968-4A7D-B7B0-319525B8DB97 - f419cda7d0b2ea21"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StoryBoard.DetailViewController.cards.setter : Swift.Array&lt;StoryBoard.Card&gt;"
+                  moduleName = "StoryBoard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/silvarleisoares/Desktop/Developer/StoryBoard/StoryBoard/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "AC20703A-F968-4A7D-B7B0-319525B8DB97 - 4e20feaed0b354e3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StoryBoard.DetailViewController.cards.modify : Swift.Array&lt;StoryBoard.Card&gt;"
+                  moduleName = "StoryBoard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/silvarleisoares/Desktop/Developer/StoryBoard/StoryBoard/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "AC20703A-F968-4A7D-B7B0-319525B8DB97 - fb5603551d70ebb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StoryBoard.DetailViewController.cards.modify : Swift.Array&lt;StoryBoard.Card&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "StoryBoard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/silvarleisoares/Desktop/Developer/StoryBoard/StoryBoard/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "AC20703A-F968-4A7D-B7B0-319525B8DB97 - abf550cb4080709a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StoryBoard.DetailViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; StoryBoard.DetailViewController"
+                  moduleName = "StoryBoard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/silvarleisoares/Desktop/Developer/StoryBoard/StoryBoard/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "AC20703A-F968-4A7D-B7B0-319525B8DB97 - 63059026f2a6269d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StoryBoard.DetailViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;StoryBoard.DetailViewController&gt;"
+                  moduleName = "StoryBoard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/silvarleisoares/Desktop/Developer/StoryBoard/StoryBoard/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "108">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C0BD5C62-E153-4766-8576-6E7E396BF975"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StoryBoard/DetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
